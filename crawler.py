@@ -134,6 +134,10 @@ def getInfo(html):
 #print html
 #print getInfo(html)
 
+##################
+To be added, get para by argv[1]..
+##################
+
 s1 = "https://www.facebook.com/katrina.dunlop"
 s2 = "http://www.renren.com/335829717/profile?ref=hotnewsfeed&sfet=701&fin=24&fid=25590484812&ff_id=335829717&platform=0&expose_time=1406826740"
 s3 = "http://www.renren.com/224196932/profile"
