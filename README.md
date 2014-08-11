@@ -8,6 +8,10 @@ Installing Beautiful Soup
 To use HTML parser, fiercely click here:
 http://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
+Dependecies
+======
+To be added..
+
 Get source code
 ------
 
